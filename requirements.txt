@@ -1,0 +1,6 @@
+requests
+pydantic
+pydantic-settings
+python-dotenv
+openpyxl
+jinja2
